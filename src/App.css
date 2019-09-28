@@ -20,3 +20,38 @@
 .App-link {
   color: #09d3ac;
 }
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+.jumbotron{
+  margin-top: 10%;
+  width: 40%;
+  background-image: linear-gradient(to top, #2cd1ff, #00daf3, #00dfd0, #00e19a, #15de52);
+  box-shadow: 1px 1px 2px black, 0 0 25px lightblue, 0 0 5px black;
+}
+
+h3:hover{
+  color: hotpink;
+}
+
